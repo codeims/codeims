@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shubham Paliwal</h1>
 <h3 align="left">Aspiring Data Scientist | AI Enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90132275/206917617-16944bf6-e576-42f4-ba44-44f5cf226283.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90132275/206917617-16944bf6-e576-42f4-ba44-44f5cf226283.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeims&label=Profile%20views&color=0e75b6&style=flat" alt="codeims" /> </p>
 
