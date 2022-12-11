@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/90132275/206919728-e5392f84-c137-456e-9928-b62c7caf34ff.gif)
 <h1 align="center">Hi 👋, I'm Shubham Paliwal</h1>
 <h3 align="center">Aspiring Data Scientist | AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90132275/206917617-16944bf6-e576-42f4-ba44-44f5cf226283.gif">
