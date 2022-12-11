@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90132275/206915097-f3351eac-1b69-45ac-ae8a-51bc5a64ce62.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90132275/206915097-f3351eac-1b69-45ac-ae8a-51bc5a64ce62.gif)
 <h1 align="left">Hi 👋, I'm Shubham Paliwal</h1>
 <h3 align="left">Aspiring Data Scientist | AI Enthusiast</h3>
 img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
