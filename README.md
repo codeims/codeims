@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90132275/206919728-e5392f84-c137-456e-9928-b62c7caf34ff.gif)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shubham Paliwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90132275/206917617-16944bf6-e576-42f4-ba44-44f5cf226283.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90132275/206977398-6ae9b10f-89d7-488f-bb6d-862d36093e46.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeims&label=Profile%20views&color=0e75b6&style=flat" alt="codeims" /> </p>
 
